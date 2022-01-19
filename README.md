@@ -7,13 +7,13 @@
 Right now I'm working as a QA Tester but looking to work as a web dev. 🧐 
 
 - I like videogames 🎮 
-  my fav. one is Minecraft
+  <br>my fav. one is Minecraft
 - I like plants especially succulents 🪴
-  my fav. [~~is Cotydelon tomentosa~~](https://en.wikipedia.org/wiki/Cotyledon_tomentosa) all of them.
-- I like to listen to music 🎵
-  here is my spotify if you want to have a look [spotify](open.spotify.com/user/shiinyx)
+  <br>my fav. [~~is Cotydelon tomentosa~~](https://en.wikipedia.org/wiki/Cotyledon_tomentosa) all of them.
+- I like to listen to music 🎵 
+  <br>here is my spotify if you want to have a look [spotify](open.spotify.com/user/shiinyx)
 - I sometimes also watch some anime/series/films but rarely
-  Serial Experiemnt Lain/Euphoria/Planet of the Apes
+  <br>Serial Experiemnt Lain/Euphoria/Planet of the Apes
 
 ---
 
