@@ -1,16 +1,47 @@
-### Hi there 👋
+## Hi there! My name is M.Angel aka [mamgo]([website](https://github.com/mamgodev)) 🥭
 
-<!--
-**mamgodev/mamgodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![mamgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamgodev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm working as a QA Tester but looking to work as a web dev. 🧐 
+
+- I like videogames 🎮 
+  my fav. one is Minecraft
+- I like plants especially succulents 🪴
+  my fav. [~~is Cotydelon tomentosa~~](https://en.wikipedia.org/wiki/Cotyledon_tomentosa) all of them.
+- I like to listen to music 🎵
+  here is my spotify if you want to have a look [spotify](open.spotify.com/user/shiinyx)
+- I sometimes also watch some anime/series/films but rarely
+  Serial Experiemnt Lain/Euphoria/Planet of the Apes
+
+---
+
+### Language and tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- Vue/Quasar
+- JS
+- CSS/SASS/Tailwind/Bootstrap
+- PHP/Laravel
+- AlpineJS
+- Livewire
+- MySQL
+- Java
+- Python
+- Basic knowledge on automation: Selenium with Java, Cypress, XPath, UFT, JMeter
+- ALM/Jira
+- SCRUM
+- Git
+
+### Projects
+- RaceTrack (private for now)
+  <br>
+
+- XFCE4-panel-layouts
+[![XFCE4-panel-layouts](https://github-readme-stats.vercel.app/api/pin/?username=mamgodev&repo=XFCE4-panel-layouts)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
