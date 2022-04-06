@@ -36,9 +36,6 @@ Right now I'm working as a QA Tester but looking to work as a web dev. 🧐
 - Git
 
 ### Projects
-- RaceTrack
-  <br>[![RaceTrack](https://github-readme-stats.vercel.app/api/pin/?username=mamgodev&repo=racetrack)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
 
 - XFCE4-panel-layouts
     <br>[![XFCE4-panel-layouts](https://github-readme-stats.vercel.app/api/pin/?username=mamgodev&repo=XFCE4-panel-layouts)](https://github.com/anuraghazra/github-readme-stats)
