@@ -1,4 +1,4 @@
-## Hi there! My name mamgmo aka [🥭]([website](https://github.com/mamgodev)) 
+## Hi! 
 
 [![mamgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamgodev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
